@@ -1,6 +1,6 @@
 # Statistical Language Modeling Using N-Grams
 
-This project implements a statistical language model using N-grams with Laplace smoothing, built on the Wikipedia corpus. It includes an interactive interface for displaying word predictions based on the N-gram model.
+This project implements a statistical language model using N-grams with Laplace smoothing built on the Wikipedia corpus. It includes an interactive interface for displaying word predictions based on the N-gram model.
 
 ## Overview
 
@@ -27,4 +27,4 @@ Before you begin, ensure you have met the following requirements:
 Clone the repository to your local machine:
 
 ```shell
-git clone https://github.com/yourusername/Statistical-Language-Modelling-using-N-grams.git
+git clone https://github.com/dwipddalal/Statistical-Language-Modelling-using-N-grams.git
